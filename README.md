@@ -46,25 +46,6 @@ Fork on Github
 
 ###
 
-<h3 align="left">Connect with me...</h3>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/ rahul-rajput-9a2050346" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="110" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="110" height="40" alt="twitter logo"  />
-  <a href="www.youtube.com/@rajput_gaming_72" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="110" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/rahul_singh_rajputtt_?igsh=cXY2eG5mZmZzOWVm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="110" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
 </div>
@@ -81,6 +62,25 @@ Fork on Github
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulrajput-3284.rahulrajput-3284&"  />
+</div>
+
+###
+
+<h3 align="left">Connect with me...</h3>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/ rahul-rajput-9a2050346" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="110" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="110" height="40" alt="twitter logo"  />
+  <a href="www.youtube.com/@rajput_gaming_72" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="110" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/rahul_singh_rajputtt_?igsh=cXY2eG5mZmZzOWVm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="110" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
