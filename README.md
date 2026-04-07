@@ -1,91 +1,85 @@
+<div align="center">
 
-<h1 align="center">hey 🌿 I'm Rahul Rajput</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rahul%20Rajput&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Python%20%26%20ML%20Developer%20%7C%20India%20🇮🇳&descAlignY=55&descAlign=50)
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=7F77DD&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+Intelligent+Systems+🤖;LLM+%7C+Deep+Learning+%7C+ML+Explorer+🚀;Google+Cloud+Enthusiast+☁️)](https://git.io/typing-svg)
 
-<p align="center">A Passionate Python & machine Learning Developer from India❤️</p>
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=rahulrajput-3284.rahulrajput-3284&color=7F77DD)
+[![GitHub followers](https://img.shields.io/github/followers/rahulrajput-3284?style=flat-square&color=1D9E75)](https://github.com/rahulrajput-3284)
 
-###
-
-<h3 align="left">👩‍💻  About Me !!</h3>
-
-###
-
-<p align="left">- 🔭 I’m working as ...<br>- 📚 I’m currently learning LLM,deep learning and Machine Learning<br>- ⚡ I’m looking to collaborate on google cloud skills<br>📫 How to reach me rrajput3284@gmail.com</p>
-
-###
-
-<h3 align="center">🛠 I code with...</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
+---
+
+## 🧠 About Me
+
+> *"Building intelligent systems, one model at a time."*
+
+```python
+rahul = {
+    "location": "Indore, India 🇮🇳",
+    "currently_learning": ["LLMs", "Deep Learning", "Machine Learning"],
+    "looking_to_collaborate": "Google Cloud Skills & AI Projects",
+    "passionate_about": "AI products that solve real problems",
+    "reach_me": "rrajput3284@gmail.com",
+    "fun_fact": "I believe every dataset has a story 📊"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulrajput-3284&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajput-3284&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 </div>
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://streak-stats.demolab.com?user=rahulrajput-3284&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulrajput-3284.rahulrajput-3284&"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulrajput-3284&theme=tokyo-night&hide_border=true" width="90%"/>
 </div>
 
-###
+---
 
-<h3 align="left">Connect with me...</h3>
-
-###
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="www.linkedin.com/in/ rahul-rajput-9a2050346" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="110" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="110" height="40" alt="twitter logo"  />
-  <a href="www.youtube.com/@rajput_gaming_72" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="110" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/rahul_singh_rajputtt_?igsh=cXY2eG5mZmZzOWVm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="110" height="40" alt="instagram logo"  />
-  </a>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rahulrajput-3284&theme=tokyonight&no-frame=true&row=1&column=6)
+
 </div>
 
-###
+---
+
+## 🤝 Connect with Me
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulrajput-3284&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rajput-9a2050346)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rahul_singh_rajputtt_)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rajput_gaming_72)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrajput3284@gmail.com)
+
 </div>
 
-###
+---
 
-<p align="left"></p>
-
-###
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
