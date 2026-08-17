@@ -18,7 +18,7 @@
 
 > *"Building intelligent systems, one model at a time."*
 
-- 🔭 Currently working on ML & AI projects
+- 🔭 Currently working on python & mern stack projects
 - 📚 Actively learning **LLMs**, **Deep Learning** & **Machine Learning**
 - ☁️ Looking to collaborate on **Google Cloud** skills & projects
 - 🧠 Passionate about AI-powered products that solve real problems
