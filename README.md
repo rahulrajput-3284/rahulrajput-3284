@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Rahul Rajput
 
-### Python & mern stack Developer · India 🇮🇳
+### Python & Mern Stack Developer · India 🇮🇳
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=ML+%26+Deep+Learning+Enthusiast;LLM+Explorer;Cloud+%26+AI+Builder;Open+to+Collaborate!)
 
