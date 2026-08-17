@@ -4,8 +4,6 @@
 
 ### Python & Mern Stack Developer · India 🇮🇳
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=ML+%26+Deep+Learning+Enthusiast;LLM+Explorer;Cloud+%26+AI+Builder;Open+to+Collaborate!)
-
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=rahulrajput-3284.rahulrajput-3284)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-rajput-9a2050346)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rrajput3284@gmail.com)
