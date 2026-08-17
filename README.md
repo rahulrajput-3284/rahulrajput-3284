@@ -19,9 +19,9 @@
 > *"Building intelligent systems, one model at a time."*
 
 - 🔭 Currently working on python & mern stack projects
-- 📚 Actively learning **mongodb**, **Express**, **React** & **next.js**
+- 📚 Actively learning **Mongodb**, **Express**, **React** & **next.js**
 - ☁️ Looking to collaborate on **Google Cloud** skills & projects
-- 🧠 Passionate about AI-powered products that solve real problems
+- 🧠 Passionate about full-stack developer and solve real problems
 - 📫 Reach me at **rrajput3284@gmail.com**
 
 ---
