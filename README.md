@@ -1,66 +1,83 @@
-<div align="center">
-
 # 👋 Hey, I'm Rahul Rajput
 
-### Python & Mern Stack Developer · India 🇮🇳
+### 💻 Aspiring MERN Stack Developer | BCA Student
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=rahulrajput-3284.rahulrajput-3284)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-rajput-9a2050346)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rrajput3284@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rahul_singh_rajputtt_)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](www.youtube.com/@rajput_gaming_72)
+**Building practical applications and learning something new every day.**
 
-</div>
+<p align="center">
+  <a href="https://github.com/rahulrajput-3284">
+    <img src="https://komarev.com/ghpvc/?username=rahulrajput-3284&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-rajput-9a2050346">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-> *"Building intelligent systems, one model at a time."*
-
-- 🔭 Currently working on python & mern stack projects
-- 📚 Actively learning **Mongodb**, **Express**, **React** & **next.js**
-- ☁️ Looking to collaborate on **Google Cloud** skills & projects
-- 🧠 Passionate about full-stack developer and solve real problems
-- 📫 Reach me at **rrajput3284@gmail.com**
+* 🎓 Currently pursuing BCA (2027 batch).
+* 🌱 Learning and building projects with the MERN Stack.
+* ⚛️ Exploring React.js and modern frontend development.
+* 🚀 Learning Node.js, Express.js and REST APIs.
+* 🗄️ Practicing MongoDB and database operations.
+* 🐍 Familiar with Python and core programming concepts.
+* 🎯 Working towards becoming a skilled software developer.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Frontend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React" />
+</p>
 
-</div>
+### Backend & Database
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" alt="Node.js Express MongoDB Python" />
+</p>
 
-## 📊 GitHub Stats
+### Tools
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahulrajput-3284&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajput-3284&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=rahulrajput-3284&theme=tokyonight&hide_border=true&border_radius=5" height="165"/>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-### ✨ Thanks for stopping by — let's build something amazing together!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulrajput-3284&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrajput-3284&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rahulrajput-3284&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/rahulrajput-3284">GitHub</a> •
+  <a href="https://www.linkedin.com/in/rahul-rajput-9a2050346">LinkedIn</a>
+</p>
+
+📧 Email: apna professional email yahan add karna.
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b>
+  <br />
+  <i>Keep learning. Keep building. Keep growing.</i>
+</p>
